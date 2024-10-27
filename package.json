@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@rive-app/canvas": "^2.21.6",
+    "@rive-app/react-canvas": "^4.14.5",
+    "next": "15.0.1",
     "react": "19.0.0-rc-69d4b800-20241021",
     "react-dom": "19.0.0-rc-69d4b800-20241021",
-    "next": "15.0.1"
+    "rive-react": "^4.14.5"
   },
   "devDependencies": {
     "postcss": "^8",
